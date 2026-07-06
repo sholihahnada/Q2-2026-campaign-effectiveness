@@ -29,3 +29,7 @@ The marketing team spent a significant budget on Q2 2026 campaigns across TikTok
 ## Tools
 
 SQL (MySQL), Tableau Public
+
+## Disclaimer
+
+This project uses a synthetic dataset created for portfolio and learning purposes. It does not represent real company or campaign data. The data cleaning and analysis techniques demonstrated, however, reflect real-world data quality issues (inconsistent formatting, missing values, calculation pitfalls) commonly encountered in actual marketing analytics work.
