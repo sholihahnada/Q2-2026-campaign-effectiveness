@@ -1,3 +1,9 @@
+-- 0. referensi: nama campaign per channel
+-- menunjukkan bahwa tiap channel punya objective berbeda
+select distinct channel, campaign_name
+from clean_campaign_data
+order by channel;
+
 -- 1. efisiensi konversi per channel (CPA)
 -- paid conversion null dikecualikan
 select 
